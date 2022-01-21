@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuneerZaatreh
-- 👀 I’m interested in softwear engineer and 
+- 👀 I’m interested in softwear engineer 
 - 🌱 I’m currently learning ... Programming in Collage (c#,c,fullstack,python)
 - 💞️ I’m looking to collaborate on Programming 
 - 📫 How to reach me Email:cyxdak1ngbusiness@gmail.com
